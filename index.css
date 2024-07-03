@@ -40,6 +40,13 @@ p{
     border-bottom-left-radius: 1em;
     border-bottom-right-radius: 1em;
 }
+.circle{
+    background-color: aquamarine;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 1em;
+    border-radius: 50%;
+}
 
 
 .summary-section{
